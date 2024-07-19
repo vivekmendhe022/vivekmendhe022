@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently working as Intern as Software Developer.
 - 💞️ I’m looking to collaborate with visionary company.
+- 🧾 Other Account - https://github.com/VivekMendhe
 - 📫 Mail-Me ()
 
 <!---
