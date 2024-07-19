@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VivekanandMendhe
-- 👀 I’m interested in Automation Testing (Bug Finder)
-- 🌱 I’m currently working on project to finding bug with the help of Selenium WebDriver.
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently working as Intern as Software Developer.
 - 💞️ I’m looking to collaborate with visionary company.
 - 📫 Mail-Me ()
 
